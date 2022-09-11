@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
-title: fur-elyse.github.io
+title: Elyse Go
+email: elysekatrina.go@gmail.com
 description: A spark notes version of data science articles I found interesting.
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
